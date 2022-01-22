@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bunny-Blocker</id>
+    <version>0.1.0</version>
+    <authors>Bunny-Blocker</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <tags>openmod openmod-plugin unturned</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="OpenMod.Unturned" version="3.2.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/nonantiy/RiderProjects/OpenMod-Bunny-Blocker/Bunny-Blocker/bin/Debug/net461/Bunny-Blocker.dll" target="lib/net461/Bunny-Blocker.dll" />
+  </files>
+</package>

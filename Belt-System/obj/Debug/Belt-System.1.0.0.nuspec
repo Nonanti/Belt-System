@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Belt-System</id>
+    <version>1.0.0</version>
+    <title>Belt-System</title>
+    <authors>Nonantiy</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/Nonanti/Belt-System</projectUrl>
+    <iconUrl>https://unturnedstore.com/api/images/604</iconUrl>
+    <description>Add a belt system to the game Unturned.</description>
+    <tags>openmod openmod-plugin unturned</tags>
+    <repository url="https://github.com/Nonanti/Belt-System" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="OpenMod.Unturned" version="3.2.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/nonantiy/RiderProjects/OpenMod-Bunny-Blocker/Belt-System/bin/Debug/net461/Belt-System.dll" target="lib/net461/Belt-System.dll" />
+  </files>
+</package>
