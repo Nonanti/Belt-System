@@ -1,6 +1,6 @@
 # Belt-System
 
-OpenMod: `openmod install Belt-System`
+OpenMod: `openmod install Nonantiy-Belt-System`
 
 ### Commands
 - command not available
